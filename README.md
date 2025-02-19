@@ -3,7 +3,7 @@
 Ce script permet d'importer les photos et ouvrir votre éditeur de photo préféré (par défaut ici Darktable) en 2 clics.
 
 ## Pré-requis
-- Installation de Exifreader
+- Installation de [exiftool](https://github.com/exiftool/exiftool)
 
 
 ## Exécution
