@@ -1,6 +1,8 @@
 # Script d'import des photos
 
 Ce script permet d'importer les photos et ouvrir votre éditeur de photo préféré (par défaut ici Darktable) en 2 clics.
+Ce script peut également facilement être utilisé pour importer un type de fichier d'un endroit à un autre.
+
 
 ## Pré-requis
 - Installation de [exiftool](https://github.com/exiftool/exiftool)
